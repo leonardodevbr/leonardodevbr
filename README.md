@@ -13,10 +13,7 @@ Desenvolvedor backend PHP/Laravel desde 2018. Trabalho com APIs, integrações e
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [siscondi](https://github.com/leonardodevbr/siscondi) | Concessão de diárias para servidores municipais | Laravel, Vue |
-| [vistoria](https://github.com/leonardodevbr/vistoria) | Vistoria de imóveis pensada para o celular | Laravel |
-| [fiap-tech-challenge](https://github.com/leonardodevbr/fiap-tech-challenge) | Otimização de rotas de entrega com algoritmo genético | Python |
-| [my-fin-app](https://github.com/leonardodevbr/my-fin-app) | Finanças pessoais offline-first com sincronização opcional | React, TypeScript, IndexedDB, Supabase |
+| [vistoria](https://github.com/leonardodevbr/vistoria) | Vistoria de imóveis pensada para o celular, com geração de PDF | Laravel |
 | [weather-forecast-api](https://github.com/leonardodevbr/weather-forecast-api) | API de previsão do tempo com filtro por geolocalização | PHP |
 | [Sistema Gerenciador de Arquivos Físicos](https://github.com/leonardodevbr/Sistema-Gerenciador-de-Arquivos-Fisicos) | Meu primeiro sistema em produção, feito para um escritório de advocacia | PHP |
 
